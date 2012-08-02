@@ -33,7 +33,6 @@
         [self performSelector:@selector(startCycleOfColors) withObject:nil afterDelay:0.5];
     }
     
-  
     
 }
 - (UIColor *)returnColor {
