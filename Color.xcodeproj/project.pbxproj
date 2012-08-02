@@ -22,13 +22,13 @@
 		6400C16615C4806500837758 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		6400C16815C4806500837758 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6400C16A15C4806500837758 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		6400C16E15C4806500837758 /* Color-Info.plist */ = {isa = PBXFileReference; path = "Color-Info.plist"; sourceTree = "<group>"; };
+		6400C16E15C4806500837758 /* Color-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Color-Info.plist"; sourceTree = "<group>"; };
 		6400C17015C4806500837758 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6400C17215C4806500837758 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		6400C17415C4806500837758 /* Color-Prefix.pch */ = {isa = PBXFileReference; path = "Color-Prefix.pch"; sourceTree = "<group>"; };
-		6400C17515C4806500837758 /* MCAppDelegate.h */ = {isa = PBXFileReference; path = MCAppDelegate.h; sourceTree = "<group>"; };
+		6400C17415C4806500837758 /* Color-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Color-Prefix.pch"; sourceTree = "<group>"; };
+		6400C17515C4806500837758 /* MCAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MCAppDelegate.h; sourceTree = "<group>"; };
 		6400C17615C4806500837758 /* MCAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MCAppDelegate.m; sourceTree = "<group>"; };
-		6400C17815C4806500837758 /* MCViewController.h */ = {isa = PBXFileReference; path = MCViewController.h; sourceTree = "<group>"; };
+		6400C17815C4806500837758 /* MCViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MCViewController.h; sourceTree = "<group>"; };
 		6400C17915C4806500837758 /* MCViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MCViewController.m; sourceTree = "<group>"; };
 		6400C17C15C4806500837758 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MCViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
