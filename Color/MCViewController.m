@@ -20,7 +20,7 @@
     
     self.shouldCycle = !self.shouldCycle;
     
-        [self startCycleOfColors];
+    [self startCycleOfColors];
         
     
 }
