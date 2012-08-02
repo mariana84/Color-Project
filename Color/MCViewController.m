@@ -10,6 +10,9 @@
 
 @implementation MCViewController
 
+/* homework: add another button like the first button and have a msg appear in log when pressed - by next weds
+ and set up github */
+
 @synthesize listOfColors, shouldCycle;
 
 - (IBAction)colorButtonPressed {
